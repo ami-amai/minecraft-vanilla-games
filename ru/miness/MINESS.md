@@ -18,15 +18,11 @@
 
 ![8x8](/image/place8x8.png)
 </details>
-
-<br>
-
 <details>
     <summary> 6x6 </summary>
 
 ![6x6](/image/place6x6.png)
 </details>
-<br>
 
 * Подготовить набор блоков в сооветствии с каким либо [набором правил](./RULES.md)
 
