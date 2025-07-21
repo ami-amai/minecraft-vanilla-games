@@ -6,4 +6,4 @@ RU | EN
 
 ### Games
 
-* [Miness (Mine Chess)](./miness/MINESS.md)
+* [Miness (Mine Chess)](./miness/README.md)
